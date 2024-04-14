@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562b6"
+  },
+  "releaseDate": "2007-04-01",
+  "trailerLink": "https://www.youtube.com/watch?v=uOA19uw1hqk",
+  "genres": [
+    "Anime",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Gurren_Lagann_key_visual.jpg",
+  "backdrops": [
+    "https://kartinki.pics/uploads/posts/2022-12/1671761091_kartinkin-net-p-gurren-lagann-kartinki-oboi-3.jpg\n"
+  ],
+  "dbi": "tt3915174",
+  "name": "Gurren Lagann",
+  "overviewIds": [
+    {
+      "$oid": "660d2a08cdca4a4a43c603c1"
+    },
+    {
+      "$oid": "660d2a83e43db5296fee14fb"
+    },
+    {
+      "$oid": "66141b2b8679a369661c6138"
+    },
+    {
+      "$oid": "66141c358679a369661c6139"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562b8"
+  },
+  "releaseDate": "2004-10-05",
+  "trailerLink": "https://www.youtube.com/watch?v=hc8hW26vuI4",
+  "genres": [
+    "Action",
+    "Anime",
+    "Comedy",
+    "Adventure"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/6172sX-TInL.jpg",
+  "backdrops": [
+    "https://images5.alphacoders.com/331/331316.jpg"
+  ],
+  "dbi": "tt8760708",
+  "name": "Bleach\n",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562b9"
+  },
+  "releaseDate": "2013-07-18",
+  "trailerLink": "https://www.youtube.com/watch?v=TH0TiQN90I0",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://static.wikia.nocookie.net/rwby/images/2/2f/RWBY_Ice_Queendom_by_huke.jpg",
+  "backdrops": [
+    "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1554951558091-M8WQIVQLXAYJR3BMCTK0/world_war_ii_rwby___home_by_thyblake_dd41wse.jpg"
+  ],
+  "dbi": "tt11116912",
+  "name": "Rwby",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562bb"
+  },
+  "releaseDate": "2022-09-13",
+  "trailerLink": "https://www.youtube.com/watch?v=KvMY1uzSC1E",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/a/a1/Cyberpunk_Edgerunners_poster.jpg/1200px-Cyberpunk_Edgerunners_poster.jpg",
+  "backdrops": [
+    "https://s5.stc.all.kpcdn.net/putevoditel/serialy/wp-content/uploads/2022/06/kiberpank-3.jpg"
+  ],
+  "dbi": "tt0499549",
+  "name": "Cyberpunk Edgerunners",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562b7"
+  },
+  "releaseDate": "2022-12-16",
+  "trailerLink": "http://localhost:3000/Trailer/OEZdKA9nffo",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "poster": "https://i5.walmartimages.com/seo/Naruto-Shippuden-Group-Wall-Poster-22-375-x-34_62b0ae88-ecdd-4ca0-b25e-8a7acd6746be.894695e6d90696978aca3e570997f9c7.jpeg",
+  "backdrops": [
+    "https://i.artfile.ru/1920x1080_13033_[www.ArtFile.ru].jpg"
+  ],
+  "dbi": "tt1630029",
+  "name": "Naruto",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562bc"
+  },
+  "releaseDate": "2021-11-20",
+  "trailerLink": "https://www.youtube.com/watch?v=fXmAurh012s",
+  "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy"
+  ],
+  "poster": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Arcane_2021_Logo.jpg",
+  "backdrops": [
+    "https://cdn.oneesports.gg/cdn-data/2021/11/LeagueofLegends_ArcanePosterWallpaper.jpg"
+  ],
+  "dbi": "tt3447590",
+  "name": "Arcane",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562bd"
+  },
+  "releaseDate": "2014-06-01",
+  "trailerLink": "https://www.youtube.com/watch?v=wVFWBoKP-lQ",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "poster": "https://img.yani.tv/posters/full/1613123549.jpg",
+  "backdrops": [
+    "https://cs14.pikabu.ru/post_img/big/2022/06/09/5/1654757581170774393.jpg"
+  ],
+  "dbi": "tt9114286",
+  "name": "Akame ga Kill",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562be"
+  },
+  "releaseDate": "2003-12-01",
+  "trailerLink": "https://www.youtube.com/watch?v=kNyR46eHDxE",
+  "genres": [
+    "Family",
+    "Adventure",
+    "Science Fiction",
+    "Animation"
+  ],
+  "poster": "https://m.media-amazon.com/images/I/716ASj7z2GL._AC_UF894,1000_QL80_.jpg",
+  "backdrops": [
+    "https://usercontent.one/wp/www.robjhayes.co.uk/wp-content/uploads/2016/12/deathnote.jpg"
+  ],
+  "reviewIds": [],
+  "dbi": "tt10298840",
+  "name": "Death Note"
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562bf"
+  },
+  "releaseDate": "2011-01-10",
+  "trailerLink": "https://www.youtube.com/watch?v=an9vI-d1W3w",
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRlYThlZjUtZjM4OS00YmIzLTkwODItZGQ3YzcwMzI1YWIzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+  "backdrops": [
+    "https://i.pinimg.com/originals/47/b5/35/47b53596d75c93ef92433aad5a4dd1cd.jpg"
+  ],
+  "dbi": "tt8093700",
+  "name": "Fate Zero",
+  "overviewIds": []
+},
+{
+  "_id": {
+    "$oid": "660bca326ea26fb7fee562ba"
+  },
+  "releaseDate": "20090-04-05",
+  "trailerLink": "https://www.youtube.com/watch?v=elyXcwunIYA",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "backdrops": [
+    "https://zeflix.online/uploads/posts/2023-05/1683032447_p9065121_b_h10_aa.jpg"
+  ],
+  "dbi": "tt6443346",
+  "name": "Fullmetal Alchemist: Brotherhood\n",
+  "overviewIds": []
+}]

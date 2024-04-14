@@ -1,0 +1,6 @@
+.OverPoster img {
+        height: 550px;
+        width: 500px;
+        border-radius: 10px;
+        overflow: hidden;
+    }

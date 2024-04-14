@@ -1,0 +1,89 @@
+.anime-carousel-container {
+  width: 100%;
+  background-color:rgb(1, 1, 1);
+  }
+  
+  .animes-poster {
+    height: 300px;
+    border: 1px solid gold;
+    border-radius: 10px;
+    overflow: hidden;
+   
+}
+  
+  .animes-poster img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .animes-card-container {
+    height: 700px;
+    background-color: rgb(0, 0, 0);
+  
+  }
+  
+  .animes-card {
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-image:var(--img);}
+    
+
+  
+    .animes-detail{
+      position: absolute;
+      top:200px;
+      display: flex;
+      justify-content: space-evenly;
+      width:100%;
+  }
+  .animes-name{
+      color:rgb(255, 243, 243);
+      display:flexbox ;
+      align-items: center;
+      
+  }
+  
+  .anime-buttons-container{
+      display:flex;
+      justify-content: space-between;
+      align-items: center;
+      width:300px;
+  }
+  
+  .play-button-icon-container{
+      padding:0px;
+      margin:0px;
+      width:150px;
+  }
+  .play-button-icon{
+      padding:0px;
+      margin:0px;
+      color:gold;
+      font-size: 3rem;
+      transition: 0.3s;
+      cursor: pointer;
+  }
+  .play-button-icon:hover{
+      font-size: 4rem;
+      color:rgb(0, 0, 0);
+  }
+  
+
+
+  .anime-overview-button-container{
+    display:flex;
+      justify-content: space-between;
+      width:300px;
+  }
+
+
+  @media only screen and (max-width: 800px) {
+      .animes-detail{
+          flex-direction: column;
+          align-items: center;
+          top:20px;
+      }
+  }
+  
